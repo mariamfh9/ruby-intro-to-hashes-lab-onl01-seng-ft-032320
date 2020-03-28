@@ -1,6 +1,5 @@
 def new_hash
   nuHash = {}
-  nuHash
 end
 
 def actor
